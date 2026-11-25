@@ -1,0 +1,15 @@
+# Gradle & Android Studio
+.gradle/
+.kotlin/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+*.hprof
+.cxx/
+captures/
+
+# OS & misc
+.DS_Store
+Thumbs.db

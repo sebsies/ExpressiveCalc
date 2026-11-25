@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Expressive 4-lobed clover container -->
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M54,24 C66,24 72,30 72,36 C78,36 84,42 84,54 C84,66 78,72 72,72 C72,78 66,84 54,84 C42,84 36,78 36,72 C30,72 24,66 24,54 C24,42 30,36 36,36 C36,30 42,24 54,24 Z" />
+    <!-- Equals symbol inside -->
+    <path
+        android:fillColor="#21005D"
+        android:pathData="M42,46h24a3,3 0 0,1 0,6h-24a3,3 0 0,1 0,-6zM42,56h24a3,3 0 0,1 0,6h-24a3,3 0 0,1 0,-6z" />
+</vector>
