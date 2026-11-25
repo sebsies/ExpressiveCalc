@@ -1,3 +1,4 @@
+[![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=expressivecalc)
 <p align="center">
   <img src="assets/app_icon.png" alt="ExpressiveCalc App Icon" width="128" />
 </p>
