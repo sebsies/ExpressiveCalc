@@ -1,8 +1,8 @@
-[![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=expressivecalc)
 <p align="center">
   <img src="assets/app_icon.png" alt="ExpressiveCalc App Icon" width="128" />
 </p>
 
+[![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=expressivecalc)
 # ExpressiveCalc
 
 An open-source **Vector / Xposed** root module that transforms Samsung's stock One UI 9+ Calculator (`com.sec.android.app.popupcalculator`) with **Material 3 Expressive** button geometry, spring-animated press morphing, dynamic color palettes, and a smooth expressive Unit Converter experience.
