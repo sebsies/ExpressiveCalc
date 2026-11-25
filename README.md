@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="ExpressiveCalc App Icon" width="128" />
+</p>
+
 # ExpressiveCalc
 
 An open-source **Vector / Xposed** root module that transforms Samsung's stock One UI 9+ Calculator (`com.sec.android.app.popupcalculator`) with **Material 3 Expressive** button geometry, spring-animated press morphing, dynamic color palettes, and a smooth expressive Unit Converter experience.
@@ -89,6 +93,7 @@ Samsung's One UI 9 Calculator does not draw its keypad with standard XML `<shape
 ```text
 ExpressiveCalc/
 ├── apk/                                      # Signed release APKs (modern API 102 & legacy API 82)
+├── assets/                                   # README media & exported 512x512 app icon PNG
 ├── app/
 │   ├── build.gradle.kts                      # AGP 8.7.3, Kotlin 2.2.10, Compose, modern/legacy flavors
 │   └── src/
